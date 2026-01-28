@@ -42,6 +42,9 @@ Note: Some dependencies may exist from setup experiments (e.g., reanimated/workl
 - Android Studio + Android SDK
 - An Android emulator or real device with USB debugging enabled
 
+> Note: If you deny location permission, distance calculation will not run until permission is granted.
+
+
 ## Setup & Run
 ```bash
 # 1) Install dependencies
