@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dependencies
 node_modules/
 
@@ -17,3 +18,11 @@ yarn-error.log*
 .DS_Store
 .idea/
 *.iml
+=======
+node_modules/
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+*.jks
+>>>>>>> b8e762c2562ad5a139aed0184f5f6063c3e5fab8

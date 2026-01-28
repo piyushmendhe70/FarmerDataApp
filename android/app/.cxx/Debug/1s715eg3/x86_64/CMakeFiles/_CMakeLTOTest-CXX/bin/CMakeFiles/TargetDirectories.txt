@@ -1,0 +1,4 @@
+D:/kenny/FarmerDataApp/android/app/.cxx/Debug/1s715eg3/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/kenny/FarmerDataApp/android/app/.cxx/Debug/1s715eg3/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/kenny/FarmerDataApp/android/app/.cxx/Debug/1s715eg3/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/kenny/FarmerDataApp/android/app/.cxx/Debug/1s715eg3/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
