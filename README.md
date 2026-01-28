@@ -1,4 +1,4 @@
-# FarmerDataApp (GramIQ – Technical Assignment)
+# FarmerDataApp 
 
 Mobile app to register farmer details, auto-fill location using PIN code, calculate distance from a predefined APMC market, and store all records locally. [file:130]
 
